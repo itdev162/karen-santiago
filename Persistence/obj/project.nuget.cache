@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AcYeOZFFvvbGfAtnTq48EoVADiFvsQ/N+1UEQqdevDW9A/Oz4uPzisVE/iKdJdgGYehX2SdRDvxOkrgw4FO3zA==",
+  "success": true,
+  "projectFilePath": "/Users/kar/Documents/GitHub/karen-santiago/Persistence/Persistence.csproj",
+  "expectedPackageFiles": [
+    "/Users/kar/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/kar/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

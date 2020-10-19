@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+VuKysrgC0gHrlYkRw8Fz6UgjlAO4XySPSZD+xyhZNJpjzhO94OAqy5gPlw6eTIuNti5T2SR3oMG+MiKluSApw==",
+  "success": true,
+  "projectFilePath": "/Users/kar/Documents/GitHub/karen-santiago/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/kar/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/kar/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
